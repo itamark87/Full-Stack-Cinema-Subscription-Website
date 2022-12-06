@@ -13,7 +13,7 @@ This is a Cinema Movies Subscritpions Website <br/> <br/>
 - JWT Authentication - token creation, validation and refreshing <br/> <br/>
 
 * **SubscriptionsWS:** <br/>
-- This is the server is acting as a webservice for CinemaWS <br/>
+- This is the server acting as a webservice for CinemaWS <br/>
 - It is responsible for handling most of the data of members subscriptions and movies <br/>
 - Persistance with MongoDB <br/>
 - Orchestration - Router -> BL -> DAL <br/> <br/>
