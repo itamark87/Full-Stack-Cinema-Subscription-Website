@@ -17,6 +17,7 @@ This is a Cinema Movies Subscritpions Website <br/> <br/>
 - It is responsible for handling most of the data of members subscriptions and movies <br/>
 - Persistance with MongoDB <br/>
 - Orchestration - Router -> BL -> DAL <br/> <br/>
+- Example data fetching from TVMaze and JsonPlaceholder
 
 **<ins>Frontend:</ins>** <br/> <br/>
 
