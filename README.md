@@ -25,5 +25,5 @@ This is a Cinema Movies Subscritpions Website <br/> <br/>
 - Using CinemaWS as the backend <br/>
 - Using Redux toolkit for holding states of users, movies and members. <br/>
 - Redux toolkit thunks for async communication with backend. <br/>
-- Axios interceptor for token passing, token refreshment and handling errors. <br/>
+- Axios interceptors for token passing, token refreshment and handling errors. <br/>
 - React-router-dom for routing pages <br/>
