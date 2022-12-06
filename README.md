@@ -16,8 +16,8 @@ This is a Cinema Movies Subscritpions Website <br/> <br/>
 - This is the server acting as a webservice for CinemaWS <br/>
 - It is responsible for handling most of the data of members subscriptions and movies <br/>
 - Persistance with MongoDB <br/>
-- Orchestration - Router -> BL -> DAL <br/> <br/>
-- Example data fetching from TVMaze and JsonPlaceholder
+- Orchestration - Router -> BL -> DAL <br/>
+- Example data fetching from TVMaze and JsonPlaceholder <br/> <br/>
 
 **<ins>Frontend:</ins>** <br/> <br/>
 
